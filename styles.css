@@ -1,0 +1,15 @@
+body {
+    background: green;
+    color: black;
+    font-family:my font.com;
+    border:10px solid black;
+    padding:500px
+    font-size:106px;
+    position:absolute;
+    visibility:full dark;
+    transation:background-colour 2s; 
+}
+h2{
+    background: #788F3C;
+    
+}
